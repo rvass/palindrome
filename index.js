@@ -1,4 +1,4 @@
-
+module.exports = Phrase;
 
 // Returns true for a palindrome, false otherwise
 function palindrome(string) {
